@@ -14,7 +14,7 @@ public class Test {
 //        int value2 = ;
         System.out.println("" + (Integer.MIN_VALUE + 1));
         
-        String str = "你@@@@@";
+        String str = "你@@@@@%%";
         str.indexOf();
     }
 }
