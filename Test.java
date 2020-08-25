@@ -10,9 +10,9 @@ public class Test {
         //21474836472
         int value = Integer.MAX_VALUE + 2;
         //测修改
-        System.out.println("value @@@= " + value);
+        System.out.println("value = " + value);
 //        int value2 = ;
-        System.out.println("@@@" + (Integer.MIN_VALUE + 1));
+        System.out.println("" + (Integer.MIN_VALUE + 1));
         
         String str = "你@@";
         str.indexOf();
