@@ -6,7 +6,11 @@
  */
 public class Test {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("hello worldadafda!!!");
+=======
+        System.out.println("hello world@@@!!!");
+>>>>>>> refs/remotes/origin/master
         //21474836472
         int value = Integer.MAX_VALUE + 2;
         //测修改
